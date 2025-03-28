@@ -67,7 +67,6 @@ public class PaymentService {
     }
 
     public Page<Payment> getPaymentsWithPaginationAndSorting(String status, Pageable pageable) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getPaymentsWithPaginationAndSorting'");
     }
 }
